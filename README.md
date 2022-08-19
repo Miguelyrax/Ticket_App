@@ -10,3 +10,7 @@ flutter pub get
 ```
 flutter run
 ```
+4. Alternativa al flutter run del paso 3
+```
+f5
+```
